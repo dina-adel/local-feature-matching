@@ -11,21 +11,21 @@ Enter one of the following: `notre_dame`, `mt_rushmore` or `e_gaudi`. <br>
 **Results**
 ---------- 
 
-- **Notre Dame**
+- **Notre Dame** <br>
 ![notre dame results](./results/notre_dame_matches.jpg)
 > Number of matches after running the pipeline: 1102 <br>
 > Accuracy on 50 most confident: 100% <br>
 > Accuracy on 100 most confident: 98% <br> 
 > Accuracy on all matches: 74% <br>
 
-- **Mt Rushmore**
-![mt rushmore results](./results/mt_rushmore_matches.jpg)
+- **Mt Rushmore** <br>
+![mt rushmore results](./results/mt_rushmore_matches.jpg) 
 > Number of matches after running the pipeline: 170 <br>
 > Accuracy on 50 most confident: 96% <br>
 > Accuracy on 100 most confident: 94% <br>
 > Accuracy on all matches: 91% <br>
 
-- **E Gaudi**
-![E Gaudi results](./results/e_gaudi_matches.jpg)
+- **E Gaudi** <br>
+![E Gaudi results](./results/e_gaudi_matches.jpg) 
 > Number of matches after running the pipeline: 44 <br>
 > Accuracy on all matches: 6% <br>
